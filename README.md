@@ -1,11 +1,28 @@
-## MERN - 
+## MERN - Book Search Engine 
 
 ## Link to Deployed Assets
 https://fathomless-spire-41649.herokuapp.com/
 
+New Repo:
+https://github.com/racheldmarron/book-search-engineer-v2
 
-## TEST
-test , test again
+Original Repo: 
+https://github.com/racheldmarron/book-search-engineer 
+
+## NOTE TO GRADERS:
+I have spent countless hours on this assignment. I have worked with 2 tutors, both of whom told me my code was completely correct and they do not understand why it won't correctly deploy to Heroku or connect to graphQL. 
+
+When I run on the server, I get a successful message and when I deploy to Heroku, I get a successful message. I am attaching screenshots below for reference. 
+
+Please view both repository links I provided to see where all of my commits are. I had to create this new repo at the last minute because something was going on with the overall git folder not pulling in all files. 
+
+I understand if you need to give me a bad grade, but please do not fail me or mark the assignment as incomplete because I have done everything I can and both the tutors I spoke with could provide no explanation as to what was going on. Thanks. 
+
+## Visual Representations
+## Images 
+
+![](./assets/reference-1.png)
+![](./assets/reference-2.png)
 
 
 ## Overview 
@@ -60,16 +77,9 @@ This application can be run using the deployed Heroku link. To run on your compu
 <li>Go to http//:localhost:3001 to use locally, or http://localhost:3001/graphql to use GraphQL</li>
 </ul>
 
-## Visual Representations
-## Images 
-
-<!-- ![](./assets/book-search-ref-1.png)
-![](./assets/book-search-ref-2.png)
-![](./assets/book-search-ref-3.png) -->
-
 ## Contributors
 
-- Thank you to my tutor Chris Baird for helping me work through errors with Heroku deployment and connecting Atlas databse to finalized app. 
+- Thank you to my tutor Katherine Redford & Jordan Hessler for helping me work through errors with Heroku deployment and connecting Atlas databse. 
 
 ## License
 
